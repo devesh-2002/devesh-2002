@@ -5,8 +5,8 @@ I am a Second Year Undergraduate at Mumbai University.
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on MERN Stack.
-- 🌱 I’m currently learning ReactJS and Java.
+- 🔭 I’m currently working on Front-end Web Development.
+- 🌱 I’m currently learning Javascript and Java.
 - 👯 I’m looking to collaborate on basic Web Development Projects.
 - 📫 How to reach me: dev241202@gmail.com
 - 😄 Pronouns: He/Him.
