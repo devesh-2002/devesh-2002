@@ -5,9 +5,9 @@ I am a Second Year Undergraduate at Mumbai University.
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Front-end Web Development.
-- 🌱 I’m currently learning Javascript and Java.
-- 👯 I’m looking to collaborate on basic Web Development Projects.
+- 🔭 I’m currently working on Web Development.
+- 🌱 I’m currently learning React js and Java.
+- 👯 I’m looking to collaborate on Web Development.
 - 📫 How to reach me: dev241202@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I am also a Weather Enthusiast.
