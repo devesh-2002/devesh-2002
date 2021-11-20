@@ -5,7 +5,7 @@ I am a Second Year Undergraduate at Mumbai University.
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on MERN Stack.
+- 🔭 I’m currently working on Front-end Web Development.
 - 🌱 I’m currently learning React js and Java.
 - 👯 I’m looking to collaborate on Front-end Web Development.
 - 📫 How to reach me: dev241202@gmail.com
