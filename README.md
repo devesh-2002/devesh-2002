@@ -12,6 +12,6 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I am also a Weather Enthusiast.
 
-![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devesh-2002&theme=chartreuse-dark&show_icons=true)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devesh-2002&currStreakNum=2FD3EB&fire=pink&sideLabels=F00">
+<!--![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devesh-2002&theme=chartreuse-dark&show_icons=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devesh-2002&currStreakNum=2FD3EB&fire=pink&sideLabels=F00">-->
 
