@@ -1,12 +1,12 @@
 ### Hi, I am Devesh Rahatekar! 👋
-I am a Second Year Undergraduate at Mumbai University.
+I am a Third Year Undergraduate at Mumbai University.
 <!--
 **devesh-2002/devesh-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on MERN Stack.
-- 🌱 I’m currently learning React.js and Java (DSA).
+- 🌱 I’m currently learning Node.js, Java (DSA) and Machine Learning.
 - 👯 I’m looking to collaborate on Front-end Web Development.
 - 📫 How to reach me: dev241202@gmail.com
 - 😄 Pronouns: He/Him.
