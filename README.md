@@ -6,7 +6,7 @@ I am a Fourth Year Undergraduate at Mumbai University.
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on MERN Stack and Machine Learning.
-- 🌱 I’m currently learning Gen AI.
+- 🌱 I’m currently learning Gen AI and LLMs.
 - 👯 I’m looking to collaborate on ML or Full Stack Development.
 - 📫 How to reach me: dev241202@gmail.com
 - 😄 Pronouns: He/Him.
