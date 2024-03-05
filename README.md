@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 <!--![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devesh-2002&theme=chartreuse-dark&show_icons=true)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devesh-2002&currStreakNum=2FD3EB&fire=pink&sideLabels=F00">-->
 
-![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devesh-2002&theme=chartreuse-dark&show_icons=true)
+<!--![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devesh-2002&theme=chartreuse-dark&show_icons=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devesh-2002&layout=compact)
 
 ## Skills
