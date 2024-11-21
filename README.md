@@ -1,5 +1,5 @@
 ### Hi, I am Devesh Rahatekar! 👋
-I am a Recent Graduate from Mumbai University.
+I am an AI Engineer at Pragyaa.ai. 
 <!--
 **devesh-2002/devesh-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
